@@ -137,10 +137,10 @@ Partial Class Form1
         '
         'But
         '
-        Me.But.Font = New System.Drawing.Font("Myriad Arabic", 14.25!, CType((System.Drawing.FontStyle.Bold Or System.Drawing.FontStyle.Italic), System.Drawing.FontStyle), System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.But.Location = New System.Drawing.Point(163, 365)
+        Me.But.Font = New System.Drawing.Font("Microsoft Sans Serif", 14.25!, CType((System.Drawing.FontStyle.Bold Or System.Drawing.FontStyle.Italic), System.Drawing.FontStyle), System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.But.Location = New System.Drawing.Point(144, 365)
         Me.But.Name = "But"
-        Me.But.Size = New System.Drawing.Size(143, 46)
+        Me.But.Size = New System.Drawing.Size(156, 46)
         Me.But.TabIndex = 7
         Me.But.Text = "Finish and Pay"
         Me.But.UseVisualStyleBackColor = True
